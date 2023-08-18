@@ -1,6 +1,5 @@
-# new branch updates
+# Welcome!
 
+Now your team has changed the main while you are working on the branch. 
 
-Now I'm making changes on my branch.
-
-I finished work, and I would like this to be main!
+Now I merged to my branch and updated!
