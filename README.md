@@ -1,9 +1,3 @@
-# This is new readme
+# Welcome!
 
-Now I made a change here. 
-And I'm making adjustment again based on the conflict!
-
-
-Now I made a change. Haha again!
-
-What if I madke a change after stage?
+Now your team has changed the main while you are working on the branch. 
